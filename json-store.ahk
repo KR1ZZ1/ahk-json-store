@@ -144,7 +144,6 @@ class JsonStore {
     dump() {
         JsonStore.console.log(this.all())
     }
-}
 
     /**
      * The console class is a wrapper for OutputDebug with Ansi color coding inspired by javascript's console methods.
